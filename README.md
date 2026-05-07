@@ -1,23 +1,40 @@
-<h1 align="center">Hi, I’m Sithija</h1>
+<h1 align="center">Hi, I’m Sithija Vithanage</h1>
 
 <p align="center">
-  A frontend-focused student developer from Sri Lanka
+  Cyber Security Undergraduate | Developer | Tech Enthusiast
 </p>
 
 <hr/>
 
 <h3 align="left">About Me</h3>
 <p>
-I am a student interested in frontend development, web technologies, and software projects.
-I enjoy learning by building small applications and improving my skills step by step.
+I am an undergraduate specializing in Cyber Security at SLIIT, Sri Lanka.
+I am interested in cybersecurity, secure software development, networking, and AI-based technologies.
+I enjoy building practical projects, learning new technologies, and improving my technical and problem-solving skills through hands-on experience.
 </p>
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-  <!-- Add links later if needed -->
+
+<a href="mailto:sithijanilupul004@gmail.com">
+  Email
+</a>
+&nbsp; | &nbsp;
+
+<a href="https://github.com/Sithijanilupul" target="_blank">
+  GitHub
+</a>
+&nbsp; | &nbsp;
+
+<a href="https://www.linkedin.com/in/sithija-vithanage-1085342a4/" target="_blank">
+  LinkedIn
+</a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+
 <p align="left">
 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -36,28 +53,20 @@ I enjoy learning by building small applications and improving my skills step by 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
 </a>
 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-</a>
-
-<a href="https://nodejs.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-</a>
-
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+<a href="https://www.java.com" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
 </a>
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 </a>
 
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+<a href="https://spring.io/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/>
 </a>
 
-<a href="https://spring.io/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
 </a>
 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
@@ -68,20 +77,41 @@ I enjoy learning by building small applications and improving my skills step by 
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
 </a>
 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+</a>
+
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+</a>
+
 </p>
 
 <hr/>
 
 <h3 align="left">Projects</h3>
+
 <ul>
+  <li>Azure Sentinel RDP Attack Detection Lab</li>
+  <li>Secure Multiprocess TCP Server with Custom Protocol</li>
+  <li>Pneumonia Detection Using Deep Learning</li>
+  <li>Sky Link Airline Reservation System</li>
   <li>Hotel Room Management System</li>
-  <li>Frontend web applications</li>
-  <li>Python practice projects</li>
 </ul>
 
 <h3 align="left">Currently Learning</h3>
+
 <ul>
-  <li>Advanced frontend development</li>
-  <li>Backend basics</li>
-  <li>AI and machine learning fundamentals</li>
+  <li>Security Operations Center (SOC) practices</li>
+  <li>Cloud security and SIEM tools</li>
+  <li>Advanced frontend and backend development</li>
+  <li>AI and Machine Learning concepts</li>
+</ul>
+
+<h3 align="left">Certifications</h3>
+
+<ul>
+  <li>Introduction to Cybersecurity</li>
+  <li>Networking Basics</li>
+  <li>AI/ML Engineer – Stage 1</li>
 </ul>
